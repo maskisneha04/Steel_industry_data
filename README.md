@@ -44,7 +44,7 @@ The Random Forest Regressor was chosen for its ability to handle non-linear rela
 
 The following plot compares **Actual vs Predicted Energy Consumption**:
 
-📊 [Click here to view the Energy Prediction Graph]([https://github.com/maskisneha04/Steel_industry_data/blob/main/results/energy_prediction_results.png](https://github.com/maskisneha04/Steel_industry_data/blob/main/notebooks/energy_prediction_results.png))
+📊 [Click here to view the Energy Prediction Graph](https://github.com/maskisneha04/Steel_industry_data/blob/main/notebooks/energy_prediction_results.png)
 
 This visualization demonstrates that the trained model closely follows the actual consumption trends, confirming its reliability.
 
